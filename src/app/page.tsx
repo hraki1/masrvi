@@ -150,7 +150,7 @@ export default async function Home({ searchParams }: Props) {
               مصرفي
             </div>
             <div className="text-3xl font-bold text-masrvi-navy leading-tight">
-              Masrvi
+              Masrvii
             </div>
             <div className="text-sm text-muted-foreground">By BMCI</div>
           </div>
